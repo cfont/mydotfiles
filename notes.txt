@@ -1,0 +1,16 @@
+install Xcode
+install gvmtools
+install github for Mac
+install vi tools
+    pathogen module
+    badwolf colorscheme
+install sublime text 2
+install dterm
+install freememory
+install quicksilver
+install caffeine
+install skitch
+install go2shell
+install iterm2
+
+
